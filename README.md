@@ -1,2 +1,2 @@
 # SQL
-Solution
+Code in mysql
